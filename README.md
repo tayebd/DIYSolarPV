@@ -66,7 +66,7 @@ Cost after 30% ITC Credit|||||$4,747
 Value of solar energy/year (NREL's PVWatts)|||||$1,091
 ROI|23.0%||||
 ROI after GP Charges|19.4%||||
-Power(DC)|5005|Kw|||
+Power(DC in Watts)|5005||||
 Cost/Watt|$1.35||||
 Cost/Watt after ITC|$0.95||||
 Power Produced (PVWatts estimate)|7277 KwH||||
