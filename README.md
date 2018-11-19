@@ -36,18 +36,19 @@ Although Georgia Power has several buyback programs, right now the only one that
 
 The homeowner can choose not to enroll in the RNR Program and simply offset the home’s energy usage, and save that way. Self-generation and offsetting energy will avoid energy purchased from Georgia Power and will reduce electricity bills. The homeowner may use solar to offset onsite energy consumption without participating in any Georgia Power program, but still needs to notify Georgia Power of the installation to program the Smart Meter accordingly to prevent back feed and unsafe working conditions for Georgia Power employees.
 
-In the proposed system produces 5.18 KwH / day, 155.4 KwH/ month so it’s not worth it to connect to Georgia Power. 
+In the proposed system produces 5.18 KwH / day, 155.4 KwH/ month so it’s not worth it to sell electricity back to Georgia Power. 
 
 ## Georgia Power Charges
 
-Interconnection Testing: Georgia Power will test the performance and safety of the energy resource prior to operation. The cost of testing is $5/kW.
+* Interconnection Testing: Georgia Power will test the performance and safety of the energy resource prior to operation. The cost of testing is $5/kW.
 
-Metering: The Company will install single-directional metering or bi-directional metering depending on the provider’s method of installation.  
+* Metering: The Company will install single-directional metering or bi-directional metering depending on the provider’s method of installation.  
 
-The provider will enter into a contract with the Company to cover all incremental metering (e.g. poly-phase meters, trans-sockets, dual-gang sockets, etc.) and interconnection costs. Additionally, provider agrees to pay a monthly metering cost as outlined below.
-Single-phase Single-directional metering charge: $ 4.50 per month
-Poly-phase Single-directional metering charge: $11.20 per month  
-Bi-directional metering charge: $ 2.82 per month
+The homeowner will enter into a contract with the Company to cover all incremental metering (e.g. poly-phase meters, trans-sockets, dual-gang sockets, etc.) and interconnection costs. Monthly metering cost:
+
+* Single-phase Single-directional metering charge: $ 4.50 per month
+* Poly-phase Single-directional metering charge: $11.20 per month  
+* Bi-directional metering charge: $ 2.82 per month
 
 The additional charges imposed by Georgia Power make the option of installing batteries more appealing. The Enphase system can be set-up to not export any production to the grid so all the production can be used for self consumption. In this case the cooling system, the heating system and the AC battery could be used to store the excess energy produced during the day. The homeowner will avoid the $7 to $16/month charges imposed by Georgia Power in addition to the delays, and the testing charges ($5/Kw not really significant). LG Chem sells a 9.8 KwH battery for $7000, Tesla sells only 2 Powerwalls at a cost of $14500 for 36 KwH that’s more than is required and would not provide a positive ROI. EnPhase provides batteries in 1 KwH increments at a cost of $1500. The batteries are eligible for the ITC. One Enphase battery produces return of investment of 13.58%, with two batteries the ROI is 9.40%. For users seeking larger systems an interesting option will be to install smart HVAC system that store energy as ICE, Ice Energy sells a AC system that can store the energy as ICE and then use later in the day to cool the house.
 
