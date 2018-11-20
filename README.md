@@ -115,3 +115,5 @@ Costs over 10 years|||$3,300.00
 Savings over 10 years	|||$3,205.35
 Yearly ROI|||9.6%
 Yearly ROI with Solar PV|||29.7%
+
+Electricity estimates ar based on the information in the energy star guides ( https://www.energystar.gov/products/heating_cooling/heat_pumps_air_source ). The water heater used is A.O. Smith Signature Premier 50-Gallon Tall 10-year Limited 4500-Watt Double Element Electric Water Heater with Hybrid Heat Pump from Lowes ( https://www.lowes.com/pd/A-O-Smith-Signature-Premier-50-Gallon-Tall-10-year-Limited-4500-Watt-Double-Element-Electric-Water-Heater-with-Hybrid-Heat-Pump ), the water heater retails for $1,299.00. The heat pump is the Goodman 3 Ton 14 Seer Heat Pump System with Multi Position Air Handler (  https://www.amazon.com/dp/B00VH6RU3Q/ref=psdc_13397451_t1_B00WZ7M7I4 ).
