@@ -52,6 +52,10 @@ Cost/Watt after ITC|$0.95|||
 Power Produced (PVWatts estimate)|7277 KwH|||
 Cost/KwH (30 years amortization)| $0.02|||
 
+## Production estimate for the solar PV array
+
+![PV array production](Solar_PV_production.png)
+
 ## Is selling excess electricity to the Georgia Power grid worthwhile?
 
 Georgia Power buys excess production at less than 4.4 cents/KwH (avoided cost which can decrease in future years) and sells it at 15 cents /KwH, even if the published rate is lower. The higher cost is due to all the extra charges GP adds to the cost of electricity like Environmental compliance, Nuclear Construction, Municipal Franchise fee, sales tax. 
